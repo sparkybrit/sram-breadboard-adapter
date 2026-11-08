@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "LYONTEK")(type "KiCad")(uri "/Users/graeme/Projects/sdram-breadboard-adaptor/lib/2023-06-02_15-35-47.kicad_sym")(options "")(descr ""))
+  (lib (name "LYONTEK")(type "KiCad")(uri "${KIPRJMOD}/lib/2023-06-02_15-35-47.kicad_sym")(options "")(descr ""))
 )
